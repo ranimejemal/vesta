@@ -6,7 +6,7 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Attribute\Route;
 
-final class AgenyController extends AbstractController
+final class AgencyController extends AbstractController
 { /**
     * @Route("/agent/{id}", name="agent_profil")
     */
